@@ -1,0 +1,3 @@
+# MicrosoftAIFundamentals-Lab-04
+
+É necessário uma conta corporativa do Azure para realizar o laboratório...
